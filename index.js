@@ -20,8 +20,8 @@ function iLoveTheBeatles (number) {
   var number=0
 do{
 array.push("I love the Beatles!")
+++
 }
 while(number<=15)
-++number
 return array
 }
